@@ -40,7 +40,7 @@ body {
 #blink {
     position: absolute;
     width: 100%;
-    color: blue;
+    color: #fb7c14;
     font-size: 80px;
     padding-right: 20px;
     text-align: right;
